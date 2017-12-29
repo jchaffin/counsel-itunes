@@ -1,5 +1,7 @@
 #+TITLE: Counsel Itunes
 
+#+BEGIN_CENTER
 [[/img/itunes.jpeg]]
+#+END_CENTER
 
 A currently +shitty+ in-development version of [[https://github.com/anschwa/helm-itunes][helm-itunes]] but for [[https://github.com/abo-abo/swiper][ivy]]
